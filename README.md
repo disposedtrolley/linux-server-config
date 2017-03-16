@@ -5,6 +5,7 @@
 + IP: 54.173.126.72
 + SSH Port: 2200
 + URL of app: http://54.173.126.72/
++ `grader` password: `123`
 
 ## Installed Software
 
